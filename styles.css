@@ -67,7 +67,7 @@ h1, h2, h3 {
     background: #fff;
     color: #000;
     height: 100vh; /* 改为固定高度，确保背景覆盖整个页面 */
-    padding: 10px 20px;
+    padding: 3px 20px;
     text-align: center;
     font-family: 'Lato', sans-serif;
     font-weight: 300;
